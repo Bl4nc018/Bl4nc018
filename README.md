@@ -2,7 +2,7 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/Bl4nc018/count.svg" alt="Visitor's Count" />
 </div>
-
+<p> </p>
 <img src="https://github.com/Bl4nc018/Bl4nc018/blob/main/banner_1.png" alt="Banner con mis datos">
 
 <h1 align="center">
@@ -24,7 +24,7 @@
 
 <hr>
 
-## 🛠️ Languages and Tools
+## 🛠️ Lenguajes y herramientas:
 
 <br>
 
